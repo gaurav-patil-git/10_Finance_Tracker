@@ -2,8 +2,6 @@
 
 ### Create a personal finance tracker to help working professionals manage their finances using Excel.
 
-## 📌 Table of Contents
-
 <h2><a class="anchor" id="overview"></a>📝 Overview</h2>
 
 This project aims to create a simple yet effective personal finance planner and tracker to help working professionals manage their monthly expenses by answering three primary questions.
