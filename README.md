@@ -11,7 +11,7 @@ This project aims to create a simple yet effective personal finance planner and 
 - Automate the generation of Budget and Actual report using Pivot Tables
 - Generate a simple variance view with surplus amount
 
-[<image>](https://github.com/gaurav-patil-git/10_Finance_Tracker/blob/main/images/2026-01-04_post.jpg)
+![post-image](https://github.com/gaurav-patil-git/10_Finance_Tracker/blob/main/images/2026-01-04_post.jpg)
 
 <h2><a class="anchor" id="tools-technologies"></a>🛠️ Tools & Technologies</h2>
 
@@ -78,7 +78,7 @@ This project aims to create a simple yet effective personal finance planner and 
 )
 ```
 
-[<image>](https://github.com/gaurav-patil-git/10_Finance_Tracker/blob/main/images/2026-01-04_data%20model.png)
+![model](https://github.com/gaurav-patil-git/10_Finance_Tracker/blob/main/images/2026-01-04_data%20model.png)
 
 <h2><a class="anchor" id="author-contact"></a>🧑🏽‍🦱 Author & Contact</h2>
 
